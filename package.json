@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tamaritamari/first-bolt-app/issues"
   },
-  "homepage": "https://github.com/tamaritamari/first-bolt-app#readme"
+  "homepage": "https://github.com/tamaritamari/first-bolt-app#readme",
+  "dependencies": {
+    "@slack/bolt": "^2.3.0"
+  }
 }
