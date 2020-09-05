@@ -1,0 +1,19 @@
+{
+  "name": "first-bolt-app",
+  "version": "1.0.0",
+  "description": "![これ](https://slack.dev/bolt-js/ja-jp/tutorial/getting-started)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamaritamari/first-bolt-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamaritamari/first-bolt-app/issues"
+  },
+  "homepage": "https://github.com/tamaritamari/first-bolt-app#readme"
+}
